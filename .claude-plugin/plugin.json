@@ -1,0 +1,9 @@
+{
+  "name": "freellmapi",
+  "version": "1.0.0",
+  "description": "Set up, connect and use a self-hosted FreeLLMAPI router: one OpenAI- and Anthropic-compatible endpoint that routes across many free LLM provider tiers.",
+  "homepage": "https://github.com/tashfeenahmed/freellmapi",
+  "repository": "https://github.com/Achi-Akira/freellmapi",
+  "license": "MIT",
+  "keywords": ["llm", "openai-compatible", "router", "free-tier", "gateway", "claude-code"]
+}
